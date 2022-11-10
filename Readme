@@ -1,2 +1,3 @@
 *** CS 5344 Big Data Project ****
 Topic : News Popularity Analysis across different Social Media Platforms
+The objective of this project is to analyze and derive deeper insights into the popularity of topics across the different social media platforms.The primary approaches, including sentiment lexicon, clustering,word frequency analysis and bias news detection, were used to complete the analysis. For this analysis, 90k news items from various news sources were included in the dataset. In order to provide a better understanding, various visualisations of the popularity of news across various topics and social media platforms were carried out. Having such insights would be helpful for individuals and companies in planning their social media strategy.
